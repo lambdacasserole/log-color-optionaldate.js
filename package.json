@@ -1,7 +1,7 @@
 {
   "name": "log-color-optionaldate",
   "description": "Log.js fork of fork - colored logs with or without timestamp.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "dependencies": {
     "cli-color": "0.2.2"
   },
