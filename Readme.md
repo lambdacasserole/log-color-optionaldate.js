@@ -7,7 +7,7 @@ This package is a fork of [log-color.js](https://github.com/futoase/log-color.js
 Install using [npm](https://www.npmjs.com/):
 
 ```
-$ npm install log-color
+$ npm install log-color-optionaldate
 ```
 
 ## Example
