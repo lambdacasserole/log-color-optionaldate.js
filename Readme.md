@@ -17,7 +17,7 @@ Can be used in a similar fashion to [Log.js](https://github.com/tj/log.js).
 Code snippet:
 
 ```
-var Log = require('log');
+var Log = require('log-color-optionaldate');
 var log = new Log('info');
 log.info('Sent a message to the user@example.com');
 ```
